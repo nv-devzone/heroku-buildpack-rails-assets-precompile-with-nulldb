@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "rails assets:precompile with nulldb"
